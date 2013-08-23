@@ -11,4 +11,4 @@ typed a
 typed b
 
 
-create a conflict!!
+conflict resolved for x
