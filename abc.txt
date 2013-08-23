@@ -19,3 +19,5 @@ conflict resolved for y
 type 1
 
 type 2
+
+add another conflict -- resolved !!!!
