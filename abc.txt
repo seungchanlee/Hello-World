@@ -17,3 +17,5 @@ conflict resolved for y
 
 
 type 1
+
+type 2
